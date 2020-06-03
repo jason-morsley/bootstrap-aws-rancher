@@ -1,1 +1,2 @@
-bootstrap-aws-rancher
+# Bootstrapping a fresh Rancher installation on AWS
+
